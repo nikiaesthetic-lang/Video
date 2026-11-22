@@ -1,0 +1,15 @@
+触发讯息（客人在 Thank you 页按按钮，WhatsApp 已帮她打好，必须一字不差）：
+我想领取《7个问题》
+
+自动回覆（收到上面那句就发）：
+---
+嗨 😊 你要的《做医美之前，一定要问清楚的 7 个问题》在这里，点开就能看：
+https://drive.google.com/file/d/1dEZkPb1Q156A0yPzF3IOxVvFq9gHLcDw/view
+
+先看第 1、2 题：安全和副作用，是最多人去面诊时忘了问的。
+
+面诊之前想先问我，直接回我这里就好。
+
+Niki
+Niki Aesthetic
+---
